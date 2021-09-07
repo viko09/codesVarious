@@ -1,0 +1,27 @@
+f = 23.5
+Sob                   Sim
+1.5f = 35.25          166
+1.75f = 41.125        116.5
+2f = 47               53
+3f = 70.5             48
+4f = 94               46
+5f = 117.5            36
+6f = 141              31.25
+7f = 164.5            32.8
+8f = 188              29.5
+9f = 211.5            26
+10f = 235             23
+
+
+La gráfica será una hipérbola x'= A/x
+Pueden aplicar el método de mínimos cuadrados haciendo el cambio  y=1/x.
+Entonces les quedará
+X'= A* Y
+Y queda una recta.
+Newton era mucha pieza.
+A poco no ?
+
+Para las gráficas deben seguir metodo  que siguió Newton para las lentes.
+Primero no usen la distancia Sob y Sim. Sino
+X= Sob-f y X'= Sim-f.
+ tienen que hacer X vx X'
