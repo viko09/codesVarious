@@ -12,6 +12,8 @@ def fun(x, a, b, c):
 xData = np.array([5, 5.3, 5.5, 6.0, 6.5, 7.1, 7.6, 8.1, 9.5, 10])
 yData = np.array([1.77, 1.66, 1.61, 1.47, 1.35, 1.26, 1.17, 1.09, 0.93, 0.89])
 
+
+
 # Plot data
 plt.plot(xData, yData, 'go', label='Datos')
 
