@@ -29,7 +29,7 @@ plt.grid(color='g', linestyle='dotted', linewidth=1)
 plt.legend()
 
 # Guardar gráfico como imágen PNG.
-plt.savefig("/home/vikoluna/Documents/BUAP/4 - Cuarto Semestre/Calculus/Calc. Integral/hw/funcionA.png")
+# plt.savefig("/home/vikoluna/Documents/BUAP/4 - Cuarto Semestre/Calculus/Calc. Integral/hw/funcionA.png")
 
 # Mostrarlo.
 plt.show()

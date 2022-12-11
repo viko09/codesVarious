@@ -21,7 +21,7 @@ Y queda una recta.
 Newton era mucha pieza.
 A poco no ?
 
-Para las gráficas deben seguir metodo  que siguió Newton para las lentes.
+Para las gráficas deben seguir metodo que siguió Newton para las lentes.
 Primero no usen la distancia Sob y Sim. Sino
 X= Sob-f y X'= Sim-f.
  tienen que hacer X vx X'
